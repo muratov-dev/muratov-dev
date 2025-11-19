@@ -1,84 +1,59 @@
+# Hi, I'm Yusuf — Android Developer
 
-# Yusuf Muratov | ymuratov
+I build clean, reliable and scalable Android apps with focus on product value.  
+2.5+ years of commercial experience, Kotlin-first, Compose-first.
 
-## Kotlin Android Developer
+I enjoy taking projects from idea to delivery: architecture, UI, data layer, offline-first, documentation.  
+Comfortable working both independently and as part of a product team.
 
-Kotlin & Jetpack Compose | Clean Architecture & Modular Apps
+---
 
-### Contact
+## 🛠 Tech Stack
 
-- 📍 Simferopol, Russia
+**Languages:** Kotlin, Java (basic)  
+**UI:** Jetpack Compose, Material 3  
+**Async:** Coroutines, Flow  
+**DI:** Dagger / Hilt  
+**Data:** Room, DataStore, Serialization  
+**Networking:** Retrofit, OkHttp  
+**Architecture:** MVVM, MVI, Clean Architecture, Multimodule  
+**Other:** Firebase, CameraX, ML Kit, Coil, GitHub Actions (learning)
 
+---
 
+## 🚀 Featured Projects
 
-### Connect
+### **📱 MultiModuleLearning** — Clean Architecture + Modularization  
+**Stack:** Kotlin, Compose, Hilt, Coroutines, Flow  
+**Highlights:** Modular structure, clear architecture boundaries, reusable UI, scalable project setup.  
+[Repository →](https://github.com/muratov-dev/MultiModuleLearning)
 
-- [GitHub](https://github.com/muratov-dev)
-- [LinkedIn](https://linkedin.com/in/ymuratov)
+---
 
+### **📱 Morphica Android** — Camera + MLKit app  
+**Stack:** Compose, CameraX, MLKit, Room, Hilt  
+**Highlights:** ML-based features, camera pipeline, offline data storage, custom UI.  
+[Repository →](https://github.com/muratov-dev/morphica-android)
 
-### Skills
+---
 
-- Kotlin
-- Java
-- Android SDK
-- XML (Views)
-- Jetpack Compose
-- MV-Patterns
+### **📱 JustMoby Test Project** — clean, fast MVP  
+**Stack:** Compose, Retrofit, Coroutines  
+**Highlights:** Clean MVVM, fast delivery, tidy codebase, clear layer separation.  
+[Repository →](https://github.com/muratov-dev/JustMobyTestProject)
 
+---
 
-### GitHub Stats
+## 📈 What I'm working on
+- Improving testing skills (JUnit, MockK, Compose UI tests)  
+- Practicing CI/CD (GitHub Actions)  
+- Exploring KMP and shared architecture  
+- Preparing for next step in my Android career
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muratov-dev&show_icons=true)
+---
 
+## 📫 Contact
 
-### Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muratov-dev&layout=compact)
-
-
-### GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muratov-dev)
-
-
-
-
-
-
-### Featured Repositories
-
-<table>
-<tr><td align="center" width="50%">
-        <a href="https://github.com/muratov-dev/MultiModuleLearning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=muratov-dev&repo=MultiModuleLearning&show_owner=false" alt="MultiModuleLearning" /></a>
-        
-        <p><strong>Language:</strong> Kotlin</p>
-        <p>⭐ 0 | 🍴 0</p>
-      </td><td align="center" width="50%">
-        <a href="https://github.com/muratov-dev/morphica-resources"><img src="https://github-readme-stats.vercel.app/api/pin/?username=muratov-dev&repo=morphica-resources&show_owner=false" alt="morphica-resources" /></a>
-        
-        
-        <p>⭐ 0 | 🍴 0</p>
-      </td></tr><tr><td align="center" width="50%">
-        <a href="https://github.com/muratov-dev/morphica-android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=muratov-dev&repo=morphica-android&show_owner=false" alt="morphica-android" /></a>
-        
-        <p><strong>Language:</strong> Kotlin</p>
-        <p>⭐ 0 | 🍴 0</p>
-      </td><td align="center" width="50%">
-        <a href="https://github.com/muratov-dev/JustMobyTestProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=muratov-dev&repo=JustMobyTestProject&show_owner=false" alt="JustMobyTestProject" /></a>
-        <p>Тестовое задание, выполненное для компании JustMoby</p>
-        <p><strong>Language:</strong> Assembly</p>
-        <p>⭐ 0 | 🍴 0</p>
-      </td></tr><tr><td align="center" width="50%">
-        <a href="https://github.com/muratov-dev/TrafficRules"><img src="https://github-readme-stats.vercel.app/api/pin/?username=muratov-dev&repo=TrafficRules&show_owner=false" alt="TrafficRules" /></a>
-        
-        <p><strong>Language:</strong> Kotlin</p>
-        <p>⭐ 0 | 🍴 0</p>
-      </td><td align="center" width="50%">
-        <a href="https://github.com/muratov-dev/RecipesProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=muratov-dev&repo=RecipesProject&show_owner=false" alt="RecipesProject" /></a>
-        
-        <p><strong>Language:</strong> Kotlin</p>
-        <p>⭐ 0 | 🍴 0</p>
-      </td></tr>
-</table>
-
+**LinkedIn:** https://www.linkedin.com/in/ymuratov  
+**Telegram:** https://t.me/ymuratov_work  
+**Email:** work.yusuf.muratov@gmail.com  
