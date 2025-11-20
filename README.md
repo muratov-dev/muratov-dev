@@ -1,54 +1,23 @@
-# Hi, I'm Yusuf — Android Developer
+# Hi, I'm Yusuf — Kotlin Android Developer (Middle)
 
-I build clean, reliable and scalable Android apps with focus on product value.  
-2.5+ years of commercial experience, Kotlin-first, Compose-first.
+I'm 22 and I have 2.5+ years of commercial experience in native Android development.  
+My main stack is **Kotlin + Jetpack Compose**, but I also work confidently with Java and legacy code when needed.
 
-I enjoy taking projects from idea to delivery: architecture, UI, data layer, offline-first, documentation.  
-Comfortable working both independently and as part of a product team.
+I build UI of any complexity (Compose + XML), design clean architectures, and integrate modern Android libraries.  
+During my work in different companies I’ve delivered a wide range of features:  
+- chat modules
+- audio and video players  
+- custom UI components
+- in-app payments
+- real-time features using WebSockets
 
----
-
-## 🛠 Tech Stack
-
-**Languages:** Kotlin, Java (basic)  
-**UI:** Jetpack Compose, Material 3  
-**Async:** Coroutines, Flow  
-**DI:** Dagger / Hilt  
-**Data:** Room, DataStore, Serialization  
-**Networking:** Retrofit, OkHttp  
-**Architecture:** MVVM, MVI, Clean Architecture, Multimodule  
-**Other:** Firebase, CameraX, ML Kit, Coil, GitHub Actions (learning)
+I cover most tasks that appear in product teams. If I haven’t used a tool yet — I learn it quickly and implement the feature.
 
 ---
-
-## 🚀 Featured Projects
-
-### **📱 MultiModuleLearning** — Clean Architecture + Modularization  
-**Stack:** Kotlin, Compose, Hilt, Coroutines, Flow  
-**Highlights:** Modular structure, clear architecture boundaries, reusable UI, scalable project setup.  
-[Repository →](https://github.com/muratov-dev/MultiModuleLearning)
-
----
-
-### **📱 Morphica Android** — Camera + MLKit app  
-**Stack:** Compose, CameraX, MLKit, Room, Hilt  
-**Highlights:** ML-based features, camera pipeline, offline data storage, custom UI.  
-[Repository →](https://github.com/muratov-dev/morphica-android)
-
----
-
-### **📱 JustMoby Test Project** — clean, fast MVP  
-**Stack:** Compose, Retrofit, Coroutines  
-**Highlights:** Clean MVVM, fast delivery, tidy codebase, clear layer separation.  
-[Repository →](https://github.com/muratov-dev/JustMobyTestProject)
-
----
-
-## 📈 What I'm working on
-- Improving testing skills (JUnit, MockK, Compose UI tests)  
-- Practicing CI/CD (GitHub Actions)  
-- Exploring KMP and shared architecture  
-- Preparing for next step in my Android career
+## 📚 What I'm learning now
+- Testing (JUnit, MockK, Compose UI tests)  
+- Multiplatform development (KMP)  
+- Improving GitHub profile and consistency (30-day commit streak)
 
 ---
 
