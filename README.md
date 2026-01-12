@@ -1,6 +1,6 @@
 # Hi, I'm Yusuf — Kotlin Android Developer (Middle)
 
-I'm 22 and I have 2.5+ years of commercial experience in native Android development.  
+I'm 22 and I have 3+ years of commercial experience in native Android development.  
 My main stack is **Kotlin + Jetpack Compose**, but I also work confidently with Java and legacy code when needed.
 
 I build UI of any complexity (Compose + XML), design clean architectures, and integrate modern Android libraries.  
